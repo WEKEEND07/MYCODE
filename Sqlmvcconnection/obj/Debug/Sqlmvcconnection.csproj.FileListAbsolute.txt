@@ -1,0 +1,166 @@
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Sqlmvcconnection.dll.config
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Sqlmvcconnection.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Sqlmvcconnection.pdb
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csc.exe
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csc.exe.config
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csc.rsp
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csi.exe
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csi.exe.config
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csi.rsp
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.AppContext.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Collections.Immutable.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Console.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Globalization.Calendars.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.Compression.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.FileSystem.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Net.Http.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Net.Sockets.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.ValueTuple.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.XPath.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\vbc.exe
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\vbc.exe.config
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\vbc.rsp
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\VBCSCompiler.exe
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\VBCSCompiler.exe.config
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Antlr3.Runtime.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Microsoft.Web.Infrastructure.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Newtonsoft.Json.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Helpers.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Mvc.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Optimization.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Razor.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Deployment.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Razor.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\WebGrease.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Helpers.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Mvc.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Optimization.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Razor.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Deployment.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Razor.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Newtonsoft.Json.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Antlr3.Runtime.pdb
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.csproj.AssemblyReference.cache
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.csproj.CoreCompileInputs.cache
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.csproj.CopyComplete
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.pdb
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.SqlServer.dll
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.xml
+D:\CS\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.SqlServer.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Sqlmvcconnection.dll.config
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Sqlmvcconnection.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Sqlmvcconnection.pdb
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csc.exe
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csc.exe.config
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csc.rsp
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csi.exe
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csi.exe.config
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\csi.rsp
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.AppContext.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Collections.Immutable.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Console.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Globalization.Calendars.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.Compression.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.FileSystem.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Net.Http.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Net.Sockets.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Reflection.Metadata.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.ValueTuple.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.XPath.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\vbc.exe
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\vbc.exe.config
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\vbc.rsp
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\VBCSCompiler.exe
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\roslyn\VBCSCompiler.exe.config
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Antlr3.Runtime.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.SqlServer.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Microsoft.Web.Infrastructure.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Newtonsoft.Json.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Helpers.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Mvc.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Optimization.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Razor.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Deployment.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Razor.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\WebGrease.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\EntityFramework.SqlServer.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Helpers.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Mvc.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Optimization.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.Razor.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Deployment.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\System.Web.WebPages.Razor.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Newtonsoft.Json.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Antlr3.Runtime.pdb
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.csproj.AssemblyReference.cache
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.csproj.CoreCompileInputs.cache
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.csproj.CopyComplete
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.dll
+D:\mvc project\Sqlmvcconnection\Sqlmvcconnection\obj\Debug\Sqlmvcconnection.pdb
